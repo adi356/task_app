@@ -1,7 +1,10 @@
 # Simple To Do List using Remult
 Front-End: React, Vite
+
 Back-End: Node.js, TSX, Express, Remult
+
 note* used to be connected to PostgreSQL but now using data.json file in db folder for dev build
+
 
 ## React + TypeScript + Vite
 
